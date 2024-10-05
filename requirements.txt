@@ -1,7 +1,6 @@
 numpy
 Pillow
 opencv-python
-cv2
 matplotlib
 requests
 seaborn
