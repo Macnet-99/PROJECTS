@@ -8,5 +8,5 @@ scikit-learn
 SpeechRecognition
 streamlit
 gTTS
-wget  # Consider replacing or removing if not needed
+wget  
 
