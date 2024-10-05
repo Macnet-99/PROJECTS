@@ -1,5 +1,5 @@
 
-import cv2
+import opencv-python as cv2
 import numpy as np
 from arguments import parse_args
 
