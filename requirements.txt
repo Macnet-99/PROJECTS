@@ -1,3 +1,12 @@
+numpy
+Pillow
+opencv-python
+matplotlib
+requests
+seaborn
+scikit-learn
+SpeechRecognition
 streamlit
 gTTS
-SpeechRecognition
+wget  # Consider replacing or removing if not needed
+
